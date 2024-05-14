@@ -2,7 +2,7 @@
 
 Meu nome é Camille Souza
 
-Estou estudando na [alura](https//www.alura.com.br)
+Estou estudando na [Alura](https//www.alura.com.br)
 Estou me desenvovendo na Javascript
 Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
